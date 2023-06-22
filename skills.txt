@@ -1,0 +1,10 @@
+Client-server architecture
+HTTP Methods
+Postman
+Removing and reading logs
+Charles
+Dev Tools
+Mobile testing
+GitBash
+SQL
+Jmeter
